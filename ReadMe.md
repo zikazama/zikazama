@@ -26,12 +26,17 @@ I like to learn new things that's why I can adapt to technological developments.
 
 ![php](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=F7DF1E)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+![golang](https://img.shields.io/badge/Golang-00A7D0?style=for-the-badge&logo=golang&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Framework
 
 ![codeigniter](https://img.shields.io/badge/Codeigniter-E74122?style=for-the-badge&logo=codeigniter&logoColor=FFFFFF)
 ![laravel](https://img.shields.io/badge/Laravel-E8392C?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
-![express](https://img.shields.io/badge/Express-E8392C?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![express](https://img.shields.io/badge/Express.js-84BA41?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![gin](https://img.shields.io/badge/Gin-018ACC?style=for-the-badge&logo=gin&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![flutter](https://img.shields.io/badge/flutter-66B1F1?style=for-the-badge&logo=flutter&logoColor=61DAFB)
+![react-native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=reactnative&logoColor=61DAFB)
+![django](https://img.shields.io/badge/Django-0A2E1F?style=for-the-badge&logo=django&logoColor=FFFFFF)
