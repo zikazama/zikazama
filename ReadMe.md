@@ -38,5 +38,5 @@ I like to learn new things that's why I can adapt to technological developments.
 ![gin-gonic](https://img.shields.io/badge/Gin%20Gonic-20232A?style=for-the-badge&logo=gin%20gonic&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![flutter](https://img.shields.io/badge/flutter-66B1F1?style=for-the-badge&logo=flutter&logoColor=61DAFB)
-![react-native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react%20native&logoColor=61DAFB)
+![react-native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react%20native&logoColor=61DAFB)
 ![django](https://img.shields.io/badge/Django-0A2E1F?style=for-the-badge&logo=django&logoColor=FFFFFF)
