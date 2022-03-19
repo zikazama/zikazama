@@ -40,3 +40,10 @@ I like to learn new things that's why I can adapt to technological developments.
 ![flutter](https://img.shields.io/badge/flutter-66B1F1?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 ![react-native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react%20native&logoColor=61DAFB)
 ![django](https://img.shields.io/badge/Django-0A2E1F?style=for-the-badge&logo=django&logoColor=FFFFFF)
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zikazama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikazama&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
