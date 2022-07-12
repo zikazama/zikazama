@@ -18,6 +18,7 @@ I like to learn new things that's why I can adapt to technological developments.
 -   **Winner Kemenparekraf/Baparekraf Digital Challenge** at _Dicoding_ (2021)
 -   **Become a Back-End Developer Expert** at _Dicoding_ (2021)
 -   **Become a Flutter Developer Expert** at _Dicoding_ (2022)
+-   **Website Development Bootcamp Class Instructor** at _MySkill_ (2022)
 -   **Backend Class Instructor Generasi Gigih 2.0** at _Yayasan Anak Bangsa Bisa_ (2022)
 -   **Mentor** at _Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka_ (2022)
 
