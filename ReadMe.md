@@ -21,7 +21,7 @@ I like to learn new things that's why I can adapt to technological developments.
 -   **Website Development Bootcamp Class Instructor** at _MySkill_ (2022)
 -   **Backend Class Instructor Generasi Gigih 2.0** at _Yayasan Anak Bangsa Bisa_ (2022)
 -   **Mentor** at _Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka_ (2022)
--   **Mentor Fellowship** at _GoTo_ (2023)
+-   **Mentor Fellowship** at _Yayasan Anak Bangsa Bisa_ (2023)
 -   **Fullstack Class Instructor Generasi Gigih 3.0** at _Yayasan Anak Bangsa Bisa_ (2023)
 -   **Mentor Company Capstone** at _Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka with Toko Dizital_ (2023)
 -   **Mentor Fullstack Class** at _Rakamin_ (2023)
