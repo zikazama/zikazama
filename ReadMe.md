@@ -25,7 +25,7 @@ I like to learn new things that's why I can adapt to technological developments.
 -   **Fullstack Class Instructor Generasi Gigih 3.0** at _Yayasan Anak Bangsa Bisa_ (2023)
 -   **Mentor Company Capstone** at _Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka with Toko Dizital_ (2023)
 -   **Mentor Fullstack Class** at _Rakamin_ (2023)
--   **System Engineering Instructor** at _Hacktive8_ (2024)
+-   **System Engineering Instructor** at _Hacktiv8_ (2024)
 
 ## 🛠️ Skills
 
