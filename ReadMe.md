@@ -27,6 +27,7 @@ I like to learn new things that's why I can adapt to technological developments.
 -   **Mentor Fullstack Class** at _Rakamin_ (2023)
 -   **Facilitator Google Arcade** at _Dicoding_ (2024)
 -   **System Engineering Instructor** at _Hacktiv8_ (2024)
+-   **Fullstack Development Instructor** at _Sinau Koding_ (2024)
 
 ## 🛠️ Skills
 
